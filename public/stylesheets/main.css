@@ -1,0 +1,36 @@
+html {    
+    height: 100%;
+}
+
+body {
+    background-image: url(../images/stock_market_background.jpg);
+    background-attachment: fixed;
+    font-family: sans-serif; 
+    margin: 0;
+}
+
+.header {
+    background-color: whitesmoke;
+    padding: 1px;
+    padding-left: 15px;
+}
+
+.top-nav {   
+    overflow: hidden;
+    background-color: black;
+    padding-left: 5px;        
+}
+
+.top-nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.top-nav a:hover {
+    color: black;
+    background-color: #b1aeae;
+}

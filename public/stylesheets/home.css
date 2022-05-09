@@ -1,0 +1,22 @@
+.main {        
+    font-size: 45pt;
+    text-align: center;
+    color: white;     
+    padding-top: 100px;   
+}
+
+.explore-button {    
+    border: none;
+    border-radius: 128px;
+    background-color:#2082ea;    
+    padding: 50px;    
+    text-align: center;
+    font-size: 30pt;  
+    width: 66%;
+    color: white;      
+}
+
+.explore-button:hover {
+    background-color: blue;
+    cursor: pointer;
+}

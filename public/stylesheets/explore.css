@@ -1,0 +1,9 @@
+.main {
+    font-size: 30px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#stock-watchlist {
+    width: 100%;
+}
